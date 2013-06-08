@@ -1,7 +1,12 @@
-/* TEAM */
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
   Evan McLean
 
-/* SITE */
-  Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
-  Software: Jekyll
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    Jekyll
