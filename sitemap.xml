@@ -1,11 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://www.michevan.id.au/404.html</loc>
-        <lastmod>2011-09-20T18:25:11+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.michevan.id.au/</loc>
-        <lastmod>2013-11-04T09:53:06+11:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  
+  <url>
+    <loc>http://www.michevan.id.au/404.html</loc>
+    <lastmod>2014-07-18T11:18:56+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.michevan.id.au/</loc>
+    <lastmod>2014-07-18T11:18:56+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
 </urlset>
