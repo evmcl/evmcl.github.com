@@ -1,3 +1,3 @@
-# robotstxt.org/
+Sitemap: https://evmcl.github.io/sitemap.xml
 
 User-agent: *
